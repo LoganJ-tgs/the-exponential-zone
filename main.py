@@ -51,6 +51,7 @@ def main():
 
 if __name__ == "__main__":
   plot_results.main()
+  print("yeah a print statement gonna type more filler for the hell of it this is a very long string it could even be the string of all time im not going to stop for a good while im still going see ma look at me go maybe i can get an english essay out of this so that i dont need to do the next one but this is gonna be long but probably not long enough this doesnt make any sense god help me alright im gonna stop.")
   #main()
 
 def oldmain():
